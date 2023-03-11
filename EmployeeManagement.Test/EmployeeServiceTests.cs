@@ -3,6 +3,7 @@ using EmployeeManagement.Business.EventArguments;
 using EmployeeManagement.Business.Exceptions;
 using EmployeeManagement.DataAccess.Entities;
 using EmployeeManagement.Services.Test;
+using EmployeeManagement.Test.TestData;
 using Xunit.Abstractions;
 
 namespace EmployeeManagement.Test
@@ -60,6 +61,22 @@ namespace EmployeeManagement.Test
 
             // Assert
             Assert.Contains(internalEmployee.AttendedCourses, course => course.Id == Guid.Parse("1fd115cf-f44c-4982-86bc-a8fe2e4ff83e"));
+        }
+
+        [Theory]
+        [InlineData("1fd115cf-f44c-4982-86bc-a8fe2e4ff83e")]
+        [InlineData("37e03ca7-c730-4351-834c-b66f280cdb01")]
+        public void CreateInternalEmployee_InternalEmployeeCreated_MustHaveAttendendSecondaryObligatoryCourse(Guid courseId)
+        {
+            // Arrange
+            //var employeeManagementTestDataRepository = new EmployeeManagementTestDataRepository();
+            //var employeeService = new EmployeeService(employeeManagementTestDataRepository, new EmployeeFactory());
+
+            // Act
+            var internalEmployee = _employeeServiceFixture.EmployeeService.CreateInternalEmployee("Dan", "Smith");
+
+            // Assert
+            Assert.Contains(internalEmployee.AttendedCourses, course => course.Id == courseId);
         }
 
         [Fact]
@@ -174,6 +191,52 @@ namespace EmployeeManagement.Test
             // Assert
             //Assert.IsType<ExternalEmployee>(employee);
             Assert.IsAssignableFrom<Employee>(employee);
+        }
+
+        [Theory]
+        [InlineData(100, true)]
+        [InlineData(200, false)]
+        public async Task GiveRaise_RaiseGiven_EmployeeMinimumRaiseGivenMatchesValue(int raiseGiven, bool expectedValueForMinimumRaiseGiven)
+        {
+            // Arrange
+            var internalEmployee = new InternalEmployee("Brooklyn", "Cannon", 5, 3000, false, 1);
+
+            // Act
+            await _employeeServiceFixture.EmployeeService.GiveRaiseAsync(internalEmployee, raiseGiven);
+
+            // Assert
+            Assert.Equal(expectedValueForMinimumRaiseGiven, internalEmployee.MinimumRaiseGiven);
+        }
+
+        public static IEnumerable<object[]> ExampleTestDataForGiveRaise_WithProperty
+        {
+            get
+            {
+                return new List<object[]>
+                {
+                        new object[] { 100, true },
+                        new object[] { 200, false }
+                };
+            }
+        }
+
+        [Theory]
+        //[MemberData(
+        //    nameof(DataDrivenEmployeeServiceTests.ExampleTestDataForGiveRaise_WithMethod),
+        //    1,
+        //    MemberType = typeof(DataDrivenEmployeeServiceTests))]
+        //[ClassData(typeof(EmployeeServiceTestData))]
+        [ClassData(typeof(StronglyTypedEmployeeServiceTestData_FromFile))]
+        public async Task GiveRaise_RaiseGiven_EmployeeMinimumRaiseGivenMatchesValueUsingMemberData(int raiseGiven, bool expectedValueForMinimumRaiseGiven)
+        {
+            // Arrange
+            var internalEmployee = new InternalEmployee("Brooklyn", "Cannon", 5, 3000, false, 1);
+
+            // Act
+            await _employeeServiceFixture.EmployeeService.GiveRaiseAsync(internalEmployee, raiseGiven);
+
+            // Assert
+            Assert.Equal(expectedValueForMinimumRaiseGiven, internalEmployee.MinimumRaiseGiven);
         }
     }
 }

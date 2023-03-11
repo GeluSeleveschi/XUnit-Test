@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\XUnitTests\\TopLevelManagement\\TopLevelManagement.csproj",
+      "projectUniqueName": "D:\\XUnit-Test\\TopLevelManagement\\TopLevelManagement.csproj",
       "projectName": "TopLevelManagement",
-      "projectPath": "D:\\XUnitTests\\TopLevelManagement\\TopLevelManagement.csproj",
+      "projectPath": "D:\\XUnit-Test\\TopLevelManagement\\TopLevelManagement.csproj",
       "packagesPath": "C:\\Users\\Gelu Seleveschi\\.nuget\\packages\\",
-      "outputPath": "D:\\XUnitTests\\TopLevelManagement\\obj\\",
+      "outputPath": "D:\\XUnit-Test\\TopLevelManagement\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

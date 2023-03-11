@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\XUnitTests\\EmployeeManagement\\EmployeeManagement.csproj": {}
+    "D:\\XUnit-Test\\EmployeeManagement\\EmployeeManagement.csproj": {}
   },
   "projects": {
-    "D:\\XUnitTests\\EmployeeManagement\\EmployeeManagement.csproj": {
+    "D:\\XUnit-Test\\EmployeeManagement\\EmployeeManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\XUnitTests\\EmployeeManagement\\EmployeeManagement.csproj",
+        "projectUniqueName": "D:\\XUnit-Test\\EmployeeManagement\\EmployeeManagement.csproj",
         "projectName": "EmployeeManagement",
-        "projectPath": "D:\\XUnitTests\\EmployeeManagement\\EmployeeManagement.csproj",
+        "projectPath": "D:\\XUnit-Test\\EmployeeManagement\\EmployeeManagement.csproj",
         "packagesPath": "C:\\Users\\Gelu Seleveschi\\.nuget\\packages\\",
-        "outputPath": "D:\\XUnitTests\\EmployeeManagement\\obj\\",
+        "outputPath": "D:\\XUnit-Test\\EmployeeManagement\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
