@@ -1,0 +1,178 @@
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\bin\Debug\net6.0\appsettings.Development.json
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\bin\Debug\net6.0\appsettings.json
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.exe
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.deps.json
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.runtimeconfig.json
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.dll
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.pdb
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\bin\Debug\net6.0\AutoMapper.dll
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\bin\Debug\net6.0\Humanizer.dll
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.csproj.AssemblyReference.cache
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.AssemblyInfoInputs.cache
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.AssemblyInfo.cs
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.csproj.CoreCompileInputs.cache
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.MvcApplicationPartsAssemblyInfo.cs
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.MvcApplicationPartsAssemblyInfo.cache
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\obj\Debug\net6.0\staticwebassets\msbuild.EmployeeManagement.Microsoft.AspNetCore.StaticWebAssets.props
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\obj\Debug\net6.0\staticwebassets\msbuild.build.EmployeeManagement.props
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeManagement.props
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EmployeeManagement.props
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\obj\Debug\net6.0\staticwebassets.pack.json
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\obj\Debug\net6.0\staticwebassets.build.json
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\obj\Debug\net6.0\staticwebassets.development.json
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\obj\Debug\net6.0\scopedcss\bundle\EmployeeManagement.styles.css
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.csproj.CopyComplete
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.dll
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\obj\Debug\net6.0\refint\EmployeeManagement.dll
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.pdb
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.genruntimeconfig.cache
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\obj\Debug\net6.0\ref\EmployeeManagement.dll
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\bin\Debug\net6.0\Azure.Core.dll
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\bin\Debug\net6.0\Azure.Identity.dll
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\bin\Debug\net6.0\System.CodeDom.dll
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\bin\Debug\net6.0\System.Memory.Data.dll
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\bin\Debug\net6.0\System.Text.Json.dll
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\UnitTests PluralSight\demos\start\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\XUnitTests\EmployeeManagement\bin\Debug\net6.0\appsettings.Development.json
+D:\XUnitTests\EmployeeManagement\bin\Debug\net6.0\appsettings.json
+D:\XUnitTests\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.exe
+D:\XUnitTests\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.deps.json
+D:\XUnitTests\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.runtimeconfig.json
+D:\XUnitTests\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.dll
+D:\XUnitTests\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.pdb
+D:\XUnitTests\EmployeeManagement\bin\Debug\net6.0\AutoMapper.dll
+D:\XUnitTests\EmployeeManagement\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\XUnitTests\EmployeeManagement\bin\Debug\net6.0\Azure.Core.dll
+D:\XUnitTests\EmployeeManagement\bin\Debug\net6.0\Azure.Identity.dll
+D:\XUnitTests\EmployeeManagement\bin\Debug\net6.0\Humanizer.dll
+D:\XUnitTests\EmployeeManagement\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\XUnitTests\EmployeeManagement\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\XUnitTests\EmployeeManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\XUnitTests\EmployeeManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\XUnitTests\EmployeeManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\XUnitTests\EmployeeManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\XUnitTests\EmployeeManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\XUnitTests\EmployeeManagement\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\XUnitTests\EmployeeManagement\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\XUnitTests\EmployeeManagement\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\XUnitTests\EmployeeManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\XUnitTests\EmployeeManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\XUnitTests\EmployeeManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\XUnitTests\EmployeeManagement\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\XUnitTests\EmployeeManagement\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\XUnitTests\EmployeeManagement\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\XUnitTests\EmployeeManagement\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\XUnitTests\EmployeeManagement\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\XUnitTests\EmployeeManagement\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\XUnitTests\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\XUnitTests\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\XUnitTests\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\XUnitTests\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\XUnitTests\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\XUnitTests\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\XUnitTests\EmployeeManagement\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\XUnitTests\EmployeeManagement\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\XUnitTests\EmployeeManagement\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\XUnitTests\EmployeeManagement\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\XUnitTests\EmployeeManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\XUnitTests\EmployeeManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\XUnitTests\EmployeeManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\XUnitTests\EmployeeManagement\bin\Debug\net6.0\System.CodeDom.dll
+D:\XUnitTests\EmployeeManagement\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\XUnitTests\EmployeeManagement\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\XUnitTests\EmployeeManagement\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\XUnitTests\EmployeeManagement\bin\Debug\net6.0\System.Memory.Data.dll
+D:\XUnitTests\EmployeeManagement\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\XUnitTests\EmployeeManagement\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\XUnitTests\EmployeeManagement\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\XUnitTests\EmployeeManagement\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\XUnitTests\EmployeeManagement\bin\Debug\net6.0\System.Text.Json.dll
+D:\XUnitTests\EmployeeManagement\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\XUnitTests\EmployeeManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\XUnitTests\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\XUnitTests\EmployeeManagement\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\XUnitTests\EmployeeManagement\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\XUnitTests\EmployeeManagement\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\XUnitTests\EmployeeManagement\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\XUnitTests\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\XUnitTests\EmployeeManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\XUnitTests\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\XUnitTests\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\XUnitTests\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\XUnitTests\EmployeeManagement\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\XUnitTests\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\XUnitTests\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.csproj.AssemblyReference.cache
+D:\XUnitTests\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\XUnitTests\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.AssemblyInfoInputs.cache
+D:\XUnitTests\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.AssemblyInfo.cs
+D:\XUnitTests\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.csproj.CoreCompileInputs.cache
+D:\XUnitTests\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.MvcApplicationPartsAssemblyInfo.cs
+D:\XUnitTests\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.MvcApplicationPartsAssemblyInfo.cache
+D:\XUnitTests\EmployeeManagement\obj\Debug\net6.0\staticwebassets\msbuild.EmployeeManagement.Microsoft.AspNetCore.StaticWebAssets.props
+D:\XUnitTests\EmployeeManagement\obj\Debug\net6.0\staticwebassets\msbuild.build.EmployeeManagement.props
+D:\XUnitTests\EmployeeManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeManagement.props
+D:\XUnitTests\EmployeeManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EmployeeManagement.props
+D:\XUnitTests\EmployeeManagement\obj\Debug\net6.0\staticwebassets.pack.json
+D:\XUnitTests\EmployeeManagement\obj\Debug\net6.0\staticwebassets.build.json
+D:\XUnitTests\EmployeeManagement\obj\Debug\net6.0\staticwebassets.development.json
+D:\XUnitTests\EmployeeManagement\obj\Debug\net6.0\scopedcss\bundle\EmployeeManagement.styles.css
+D:\XUnitTests\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.csproj.CopyComplete
+D:\XUnitTests\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.dll
+D:\XUnitTests\EmployeeManagement\obj\Debug\net6.0\refint\EmployeeManagement.dll
+D:\XUnitTests\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.pdb
+D:\XUnitTests\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.genruntimeconfig.cache
+D:\XUnitTests\EmployeeManagement\obj\Debug\net6.0\ref\EmployeeManagement.dll
