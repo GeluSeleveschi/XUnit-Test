@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "yWA2kDnKz2OlbDV8BHeS1kdBFlD1OxIoreMF2SWzut6C6mFx46Eb0AJGYbSvkmjq+9tU9o5ax/9tWa1F+u0Abw==",
+  "dgSpecHash": "S21sMiNqbDZtoTSe6WSptQ1Y0jNbvT144/tZUpA05yc3VTqDDubk5uScvUKN7tYKTEmPU7zIxcmtRtxb+937Bg==",
   "success": true,
   "projectFilePath": "D:\\XUnit-Test\\EmployeeManagement\\EmployeeManagement.csproj",
   "expectedPackageFiles": [
@@ -74,7 +74,6 @@
     "C:\\Users\\Gelu Seleveschi\\.nuget\\packages\\system.resources.resourcemanager\\4.3.0\\system.resources.resourcemanager.4.3.0.nupkg.sha512",
     "C:\\Users\\Gelu Seleveschi\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
     "C:\\Users\\Gelu Seleveschi\\.nuget\\packages\\system.runtime.caching\\5.0.0\\system.runtime.caching.5.0.0.nupkg.sha512",
-    "C:\\Users\\Gelu Seleveschi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\Gelu Seleveschi\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
     "C:\\Users\\Gelu Seleveschi\\.nuget\\packages\\system.security.cryptography.cng\\5.0.0\\system.security.cryptography.cng.5.0.0.nupkg.sha512",
     "C:\\Users\\Gelu Seleveschi\\.nuget\\packages\\system.security.cryptography.protecteddata\\5.0.0\\system.security.cryptography.protecteddata.5.0.0.nupkg.sha512",
